@@ -367,6 +367,16 @@ nav a{
     nav{
         flex-direction:column;
         align-items: center;
+        color:gray;
+    }
+    hr{
+        border:1px solid grey;
+    }
+    nav a{
+        border-top:1px solid grey;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
     }
 }
 
